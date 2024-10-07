@@ -1,4 +1,4 @@
-const createStatsCollector = require("mocha/lib/stats-collector");
+//const createStatsCollector = require("mocha/lib/stats-collector");
 
 // Write your solution here!
 const cats = ["Milo", "Otis", "Garfield"];
